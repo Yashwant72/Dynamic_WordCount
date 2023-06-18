@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Dynamic_WordCount/static/css/main.30ea52ad.css",
+    "main.js": "/github.io/Dynamic_WordCount/static/js/main.2395cabe.js",
+    "index.html": "/github.io/Dynamic_WordCount/index.html",
+    "main.30ea52ad.css.map": "/github.io/Dynamic_WordCount/static/css/main.30ea52ad.css.map",
+    "main.2395cabe.js.map": "/github.io/Dynamic_WordCount/static/js/main.2395cabe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.2395cabe.js"
+  ]
+}
